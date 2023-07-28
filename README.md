@@ -1,4 +1,5 @@
 # movie_app
+![moviesapp](https://github.com/templatevilla/fluttermoviesapptemplate/assets/76429360/8d89c895-d480-4cd3-9a7b-fbaa85d1d029)
 
 A new Flutter project.
 
